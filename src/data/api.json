@@ -1,0 +1,42 @@
+{
+    "medicos": [
+        {
+            "id": "1",
+            "nombre": "Ramón",
+            "especialidad": "Cardiología",
+            "perfil": "RESIDENTE"
+        },
+        {
+            "id": "2",
+            "nombre": "Juan",
+            "especialidad": "Pediatría",
+            "perfil": "ESPECIALISTA"
+        },
+        {
+            "id": "3",
+            "nombre": "Shaun",
+            "especialidad": "Cirujano",
+            "perfil": "RESIDENTE"
+        }
+    ],
+    "pacientes": [
+        {
+            "id": "1",
+            "nombre": "David",
+            "localidad": "Montilla",
+            "fecha_nacimiento": "2003-05-23"
+        },
+        {
+            "id": "2",
+            "nombre": "Rafa",
+            "localidad": "Madrid",
+            "fecha_nacimiento": "2002-02-11"
+        },
+        {
+            "id": "3",
+            "nombre": "Antonio Jorge",
+            "localidad": "Granada",
+            "fecha_nacimiento": "1992-12-02"
+        }
+    ]
+}

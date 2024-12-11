@@ -12,7 +12,7 @@ async function PacientesPage({ searchParams }) {
             <Link href="/" className="fixed text-4xl p-2 bg-orange-300 rounded-full">🏠</Link>
 
             <h1 className='py-10 text-3xl text-blue-500 text-center border-b-4 border-b-blue-500'>
-                API REST
+                PACIENTES API REST
             </h1>
 
             <PacienteNuevo />

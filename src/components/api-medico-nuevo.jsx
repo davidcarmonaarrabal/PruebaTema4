@@ -7,7 +7,7 @@ async function nuevoMedico(formData) {
 
     const response = await fetch('http://localhost:4000/medicos', {
         method: 'POST',
-        body: JSON.stringify({ nombre, especialidad, perfil: +perfil, createdAt: new Date().toISOString() })
+        body: JSON.stringify({ nombre, especialidad, perfil, createdAt: new Date().toISOString() })
     })
     const data = await response.json()
 
